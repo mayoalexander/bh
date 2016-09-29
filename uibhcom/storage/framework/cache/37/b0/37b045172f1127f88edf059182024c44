@@ -1,0 +1,12 @@
+1475185837a:1:{s:12:"tracking.htm";a:6:{s:8:"fileName";s:12:"tracking.htm";s:7:"content";s:222:"==
+<script src="{{ 'assets/javascript/tracking.js'|theme }}"></script>
+<script>
+    // appendTrackingCode('button', 'class');
+    // appendTrackingCode('a', 'href');
+    appendTrackingCode('input', 'name');
+</script>";s:5:"mtime";i:1475006736;s:6:"markup";s:218:"<script src="{{ 'assets/javascript/tracking.js'|theme }}"></script>
+<script>
+    // appendTrackingCode('button', 'class');
+    // appendTrackingCode('a', 'href');
+    appendTrackingCode('input', 'name');
+</script>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

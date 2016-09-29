@@ -1,0 +1,221 @@
+$brand_red:#AC1A2F;
+$brand_green:#44693d;
+$brand_dark_grey:#58595B;
+
+.hero {
+	padding-top: 9em;
+    padding-bottom: 5em;
+}
+.videoWrapper {
+    width: 320px;
+    background: #f4f4f4;
+    margin: 0 auto;
+    position: relative;
+    top: 30%;
+    box-shadow: 0 0 83px -10px rgba(0, 0, 0, 0.51);
+    border: none;
+    border-radius: 5px;
+    img , video {
+    	border-radius:5px 5px 0 0;
+    }
+    button {
+        // background: #58595B;
+        background: transparent;
+        color:#58595B;
+        border-color: transparent;
+        border-radius: 5px;
+
+    }
+    .btn-full {
+        width: 100%;
+    }
+    button:hover, button:active, button:focus {
+		// background: #333;
+		color: #000000;
+	    border-color: transparent;
+    }
+    .loginLinks {
+	    padding-top: 15px;
+	}
+	.icon-adjust {
+	    padding-bottom: 2px !important;
+	}
+	.loginLinks a {
+        display: block;
+        text-align: center;
+    }
+    .loginTitle {
+	    font-size: 26px;
+	    margin-bottom: 15px;
+	    color: $brand_red;
+	    text-align: center;
+	}
+	.btn-group {
+	    width:100%;
+	    display:block;
+	    button {
+	    	height:60px;
+	    	border-radius:0px;
+	    	border:transparent;
+	    }
+	    button:hover {
+	    	border:transparent;
+	    }
+	    button:active, button:focus {
+	    	background-color: #e6e6e6;
+			color:$brand_red;
+	    }
+	    #btn525 {
+	    	position:relative;
+	    	left:1px;
+	    }
+	}
+	#HelicopterSelect button {
+    	width:107.3px;
+    }
+    #contPhotoShare button {
+    	width:160.5px;
+    }
+	#btnRetake {
+	    display:none;
+	}
+	#btnRetake, #completePhoto, #btnTakePhoto {
+	    height:60px;
+	}
+	#btnTakePhoto, #btnRetake {
+		margin-top:12.5px;
+	}
+	#HelicopterSelect, #contPhotoShare {
+		div {
+			padding: 0em;
+		}
+	    width:100%;
+	}
+	#contPhotoShare {
+		button {
+			color:#ffffff;
+		}
+	}
+	#DownloadImage {
+		background-color:$brand_dark_grey;
+	}
+	.btn-default.disabled {
+	    border-color:transparent;
+	}
+	#launchCameraButton {
+		opacity: 0;
+		cursor: pointer;
+	    height: 447px;
+	    border: 2px dotted red;
+	    position: absolute;
+	    width: 100%;
+	    visibility: none;
+	    z-index: 1000;
+	}
+	#launchCameraLabel {
+		color:#58595b;
+		position: absolute;
+	    font-size: 10em;
+	    width: 100%;
+	    text-align: center;
+	    margin-top: 110px;
+	    i {
+	    	text-shadow: 0px 1px 100px #000;
+	    }
+	    span {
+    	    font-size: 14px;
+		    display: block;
+		    position: relative;
+		    bottom: 3.5em;
+	    }
+	}
+}
+
+
+
+
+
+
+#contPhotoShare {
+	#Facebookbutton {
+		display: none;
+	}
+	button {
+    	width:160.5px;
+    }
+} 
+
+#intro {
+	padding:1em;
+}
+
+.navbar-home-top-wrap {
+    min-height: 90px;
+}
+
+.btn-default .active, .btn:focus,.btn.active:focus, .btn:active:focus,  .btn:active { //
+	outline:none;
+	color:$brand_red;
+}
+// .videoWrapper button:active, .videoWrapper button:focus {
+// 	background-color: #e6e6e6;
+// 	color:$brand_red;
+// }
+#btnTakePhoto:hover, #btnRetake:hover, #btnRetake:active {
+	background: transparent;
+    box-shadow: NONE;
+}
+
+
+//     -webkit-box-shadow: none;
+    // box-shadow: none;
+
+ 
+
+
+.videoPlaceholder {
+    width: 320px;
+    height: 280px;
+    background-color: #222;
+    border-radius: 5px;
+    // margin-bottom: 15px;
+}
+
+
+
+
+/* TRANSITIONS */
+// .videoWrapper {
+// 	transition:all 0.5s;
+// }
+// .videoWrapper:hover {
+//     box-shadow: 0 0 83px 2000px gold;
+// }
+
+
+.rotateimagecss {
+     -ms-transform: rotate(90deg); /* IE 9 */
+    -webkit-transform: rotate(90deg); /* Chrome, Safari, Opera */
+    transform: rotate(90deg);
+    position: relative;
+    top: 40px;
+    right: 55px;
+}
+
+
+@media (min-width: 768px) {
+
+	.hero {
+		padding-top: 1em;
+	    padding-bottom: 1em;
+	}
+
+    .loginWrapper {
+        width: 50%;
+    }
+}
+@media (min-width: 992px) {
+    #contPhotoShare, #HelicopterSelect {
+	    margin-top: 5em;
+    }
+}

@@ -1,0 +1,71 @@
+title = "save_to_filesystem"
+url = "/save_to_filesystem"
+layout = "development"
+is_hidden = 0
+==
+<div class="file-upload-results"></div>
+<form class="upload_form" enctype="multipart/form-data" method="post">
+	<input type="hidden" name="upload_complete" value="true">
+	<input type="file" name="file">
+	<button class="btn btn-primary">Upload</button>
+</form>
+
+<hr><hr>
+
+{% partial "tracking.htm" %}
+
+
+<script type="text/javascript">
+$(function() {
+	$('.upload_form input').change(function(e){
+		e.preventDefault();
+		var file = $(this).get(0).files[0];
+		var formdata = new FormData();
+        // Add the file to the request.
+        formdata.append('file[]', file);
+
+
+        /* FILESYSTME PATH */
+        var path = 'upload.php';
+
+        $.ajax({
+            // Uncomment the following to send cross-domain cookies:
+            xhrFields: {withCredentials: true},
+            url: path,
+            method: 'POST',
+            cache       : false,
+            processData: false,
+            contentType: false, 
+            fileElementId: 'image-upload',
+            data: formdata,
+            beforeSend: function (x) {
+                    if (x && x.overrideMimeType) {
+                        x.overrideMimeType("multipart/form-data");
+                    }
+            },
+            // Now you should be able to do this:
+            mimeType: 'multipart/form-data'    //Property added in 1.5.1
+        }).always(function () {
+            console.log(formdata);
+        }).fail(function(jqXHR){
+            // alert(jqXHR.statusText + 'oh no it didnt work!')
+            $('.file-upload-results').html('You didnt upload the correct file format!');
+        }).done(function (result) {
+            $('.file-upload-results').html(result);
+            $('.file-upload-results').append('<input type="hidden" name="user_name">');
+			$(".file-upload-results").append('<button class="btn btn-primary save_profile_photo">Save As Profile Image</button> <button class="btn btn-danger"><i class="fa fa-trash"></i></button>');
+        });
+
+		console.log(file);
+		console.log(formdata);
+	});
+
+
+	
+	$('.upload_form').submit(function(e){
+		e.preventDefault();
+		// uploadFile($(this).);
+	});
+});
+	// window.webkitRequestFileSystem(window.TEMPORARY, 1024*1024, SaveDatFileBro)
+</script>

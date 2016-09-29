@@ -1,0 +1,128 @@
+1475185831a:1:{s:16:"benchmarktwo.htm";a:9:{s:8:"fileName";s:16:"benchmarktwo.htm";s:7:"content";s:2626:"title = "benchmark/two"
+url = "/benchmark/two"
+layout = "bh-live"
+is_hidden = 0
+==
+<link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="/themes/demo/assets/templates/SelectInspiration/css/normalize.css" />
+		<!-- <link rel="stylesheet" type="text/css" href="/themes/demo/assets/templates/SelectInspiration/css/demo.css" /> -->
+		<link rel="stylesheet" type="text/css" href="/themes/demo/assets/templates/SelectInspiration/css/cs-select.css" />
+		<link rel="stylesheet" type="text/css" href="/themes/demo/assets/templates/SelectInspiration/css/cs-skin-circular.css" />
+		<link rel="stylesheet" type="text/css" href="/themes/demo/assets/templates/SelectInspiration/css/cs-skin-underline.css" />
+		<!--[if IE]>
+  		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+
+		<div class="container">
+			<h1>UI Elements - Select Dropdowns</h1>
+			<section class="col-md-6">
+				<select class="cs-select cs-skin-circular">
+					<option value="" disabled selected>Select an activity</option>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+					<option value="6">6</option>
+					<option value="7">7</option>
+					<option value="8">8</option>
+				</select>
+			</section>
+			
+			
+			
+			<section class="col-md-6">
+				<select class="cs-select cs-skin-underline">
+					<option value="" disabled selected>Choose a Bouquet</option>
+					<option value="1">Gardenia + Daisies</option>
+					<option value="2">Roses + Stephanotis</option>
+					<option value="3">Peony + Gerbera</option>
+					<option value="4">Orchid + Limonium</option>
+					<option value="5">Iris + Omithoalum</option>
+				</select>
+			</section>
+			
+			
+		</div><!-- /container -->
+		
+		
+		
+		<script src="/themes/demo/assets/templates/SelectInspiration/js/classie.js"></script>
+		<script src="/themes/demo/assets/templates/SelectInspiration/js/selectFx.js"></script>
+		<script>
+			(function() {
+				[].slice.call( document.querySelectorAll( 'select.cs-select' ) ).forEach( function(el) {	
+					new SelectFx(el, {
+						stickyPlaceholder: false,
+						onChange: function(val){
+							var img = document.createElement('img');
+							img.src = 'img/'+val+'.png';
+							img.onload = function() {
+								document.querySelector('span.cs-placeholder').style.backgroundImage = 'url(img/'+val+'.png)';
+							};
+						}
+					});
+				} );
+			})();
+		</script>";s:5:"mtime";i:1475099202;s:6:"markup";s:2538:"<link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="/themes/demo/assets/templates/SelectInspiration/css/normalize.css" />
+		<!-- <link rel="stylesheet" type="text/css" href="/themes/demo/assets/templates/SelectInspiration/css/demo.css" /> -->
+		<link rel="stylesheet" type="text/css" href="/themes/demo/assets/templates/SelectInspiration/css/cs-select.css" />
+		<link rel="stylesheet" type="text/css" href="/themes/demo/assets/templates/SelectInspiration/css/cs-skin-circular.css" />
+		<link rel="stylesheet" type="text/css" href="/themes/demo/assets/templates/SelectInspiration/css/cs-skin-underline.css" />
+		<!--[if IE]>
+  		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+
+		<div class="container">
+			<h1>UI Elements - Select Dropdowns</h1>
+			<section class="col-md-6">
+				<select class="cs-select cs-skin-circular">
+					<option value="" disabled selected>Select an activity</option>
+					<option value="1">1</option>
+					<option value="2">2</option>
+					<option value="3">3</option>
+					<option value="4">4</option>
+					<option value="5">5</option>
+					<option value="6">6</option>
+					<option value="7">7</option>
+					<option value="8">8</option>
+				</select>
+			</section>
+			
+			
+			
+			<section class="col-md-6">
+				<select class="cs-select cs-skin-underline">
+					<option value="" disabled selected>Choose a Bouquet</option>
+					<option value="1">Gardenia + Daisies</option>
+					<option value="2">Roses + Stephanotis</option>
+					<option value="3">Peony + Gerbera</option>
+					<option value="4">Orchid + Limonium</option>
+					<option value="5">Iris + Omithoalum</option>
+				</select>
+			</section>
+			
+			
+		</div><!-- /container -->
+		
+		
+		
+		<script src="/themes/demo/assets/templates/SelectInspiration/js/classie.js"></script>
+		<script src="/themes/demo/assets/templates/SelectInspiration/js/selectFx.js"></script>
+		<script>
+			(function() {
+				[].slice.call( document.querySelectorAll( 'select.cs-select' ) ).forEach( function(el) {	
+					new SelectFx(el, {
+						stickyPlaceholder: false,
+						onChange: function(val){
+							var img = document.createElement('img');
+							img.src = 'img/'+val+'.png';
+							img.onload = function() {
+								document.querySelector('span.cs-placeholder').style.backgroundImage = 'url(img/'+val+'.png)';
+							};
+						}
+					});
+				} );
+			})();
+		</script>";s:4:"code";N;s:5:"title";s:13:"benchmark/two";s:3:"url";s:14:"/benchmark/two";s:6:"layout";s:7:"bh-live";s:9:"is_hidden";s:1:"0";}}

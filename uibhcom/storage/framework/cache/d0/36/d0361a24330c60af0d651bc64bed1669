@@ -1,0 +1,80 @@
+1475185831a:1:{s:18:"benchmarkthree.htm";a:9:{s:8:"fileName";s:18:"benchmarkthree.htm";s:7:"content";s:1986:"title = "benchmark/three"
+url = "/benchmark/three"
+layout = "bh-live"
+is_hidden = 0
+==
+<link rel="stylesheet" type="text/css" href="/themes/demo/assets/templates/SelectInspiration/css/normalize.css" />
+		<!-- <link rel="stylesheet" type="text/css" href="/themes/demo/assets/templates/SelectInspiration/css/demo.css" /> -->
+		<link rel="stylesheet" type="text/css" href="/themes/demo/assets/templates/SelectInspiration/css/cs-select.css" />
+		<link rel="stylesheet" type="text/css" href="/themes/demo/assets/templates/SelectInspiration/css/cs-skin-overlay.css" />
+		<!--[if IE]>
+  		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+
+		<div class="container">
+			<section>
+				<select class="cs-select cs-skin-overlay">
+					<option value="" disabled selected>Select a Dinner</option>
+					<optgroup label="Mediterranean Tastes">
+						<option value="1">Salmon Pecorino with Girolle Sauce</option>
+						<option value="2">Pan-fried Gnocci in Tomato Sauce</option>
+						<option value="3">Maple Glazed Potatoes in Truffle Reduction</option>
+						<option value="4">Tenderstem Broccoli in Artichoke Vinaigrette</option>
+					</optgroup>
+					<optgroup label="Nordic Refreshment">
+						<option value="5">Smoked Herring in Oyster Gel</option>
+						<option value="6">Broad Beans in Sea Rosemary Sauce</option>
+						<option value="7">Grilled Asparagus with Pickled Apple</option>
+						<option value="8">Cold-smoked Eel with Sea Purslane </option>
+					</optgroup>
+				</select>
+			</section>
+		</div><!-- /container -->
+		<script src="/themes/demo/assets/templates/SelectInspiration/js/classie.js"></script>
+		<script src="/themes/demo/assets/templates/SelectInspiration/js/selectFx.js"></script>
+		<script>
+			(function() {
+				[].slice.call( document.querySelectorAll( 'select.cs-select' ) ).forEach( function(el) {	
+					new SelectFx(el, {
+						stickyPlaceholder: false
+					});
+				} );
+			})();
+		</script>";s:5:"mtime";i:1475162737;s:6:"markup";s:1899:"<link rel="stylesheet" type="text/css" href="/themes/demo/assets/templates/SelectInspiration/css/normalize.css" />
+		<!-- <link rel="stylesheet" type="text/css" href="/themes/demo/assets/templates/SelectInspiration/css/demo.css" /> -->
+		<link rel="stylesheet" type="text/css" href="/themes/demo/assets/templates/SelectInspiration/css/cs-select.css" />
+		<link rel="stylesheet" type="text/css" href="/themes/demo/assets/templates/SelectInspiration/css/cs-skin-overlay.css" />
+		<!--[if IE]>
+  		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+
+		<div class="container">
+			<section>
+				<select class="cs-select cs-skin-overlay">
+					<option value="" disabled selected>Select a Dinner</option>
+					<optgroup label="Mediterranean Tastes">
+						<option value="1">Salmon Pecorino with Girolle Sauce</option>
+						<option value="2">Pan-fried Gnocci in Tomato Sauce</option>
+						<option value="3">Maple Glazed Potatoes in Truffle Reduction</option>
+						<option value="4">Tenderstem Broccoli in Artichoke Vinaigrette</option>
+					</optgroup>
+					<optgroup label="Nordic Refreshment">
+						<option value="5">Smoked Herring in Oyster Gel</option>
+						<option value="6">Broad Beans in Sea Rosemary Sauce</option>
+						<option value="7">Grilled Asparagus with Pickled Apple</option>
+						<option value="8">Cold-smoked Eel with Sea Purslane </option>
+					</optgroup>
+				</select>
+			</section>
+		</div><!-- /container -->
+		<script src="/themes/demo/assets/templates/SelectInspiration/js/classie.js"></script>
+		<script src="/themes/demo/assets/templates/SelectInspiration/js/selectFx.js"></script>
+		<script>
+			(function() {
+				[].slice.call( document.querySelectorAll( 'select.cs-select' ) ).forEach( function(el) {	
+					new SelectFx(el, {
+						stickyPlaceholder: false
+					});
+				} );
+			})();
+		</script>";s:4:"code";N;s:5:"title";s:15:"benchmark/three";s:3:"url";s:16:"/benchmark/three";s:6:"layout";s:7:"bh-live";s:9:"is_hidden";s:1:"0";}}

@@ -1,0 +1,81 @@
+title = "Orientation"
+url = "/selfie/orientation"
+layout = "bh-live"
+is_hidden = 0
+==
+<style type="text/css">
+	.videoPlaceholder {
+		margin-top:5em;
+		width: 320px;
+		height: 320px;
+		text-align: center;
+		padding:1em;
+		/*border: 1px solid #303030;*/
+		background-size: auto 100%;
+		background-position: center center;
+	}
+
+	.pleaseRotate {
+	  animation: pulse 2s infinite;
+	}
+	.pleaseRotate div , .videoPlaceholder i {
+		display:block;
+	}
+	.videoPlaceholder i {
+		font-size: 8em;
+	}
+
+	@keyframes pulse {
+	  0% {
+
+	    transform: rotate(90deg);
+	  }
+	  50% {
+
+	    transform: rotate(0deg);
+	  }
+	  100% {
+	    /*background-color: #FF4136;*/
+	    transform: rotate(90deg);
+	  }
+	}
+</style>
+<div class="container videoPlaceholder" >
+    this is the container
+    <button class="btn btn-primary getScreen">Get Screen</button>
+</div>
+
+<script>
+	var orientation = window.screen.orientation;
+    var wrap = $('.videoPlaceholder');
+    
+    function showAnimation(active) {
+    	if (active===true) {
+    		wrap.html('<div><i class="fa fa-mobile-phone"></i>Please turn your phone!</div>');
+    		$('.videoPlaceholder i ').addClass('pleaseRotate');
+    		// alert('This is the animation');
+    	} else {
+    		wrap.html('Okay youre good!');
+    		wrap.removeClass('pleaseRotate');
+    		// alert('This is the animation');
+    	}
+    }
+	$(window).on('resize orientationChange', function(e) {
+
+	  	resizeTimer = setTimeout(function() {
+			if (orientation.type==='landscape-primary') {
+				showAnimation(true);
+				// wrap.css('background-image', 'url(https://az616578.vo.msecnd.net/files/responsive/embedded/any/desktop/2016/07/30/636055084736463790-1434063336_6.jpg)');
+			} else {
+				showAnimation(false);
+				// wrap.css('background-image', 'url(http://www.newyorker.com/wp-content/uploads/2015/09/Sullivan-Trump-Homecoming-King-1200.jpg)');
+			}
+		            
+		  }, 250);
+	  	resizeTimer;
+
+
+  });
+
+
+</script>
