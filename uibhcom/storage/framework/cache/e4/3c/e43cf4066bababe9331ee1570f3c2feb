@@ -1,4 +1,4 @@
-1475185217a:1:{s:10:"bh-dev.htm";a:6:{s:8:"fileName";s:10:"bh-dev.htm";s:7:"content";s:50228:"description = "stable development"
+1475258223a:1:{s:10:"bh-dev.htm";a:6:{s:8:"fileName";s:10:"bh-dev.htm";s:7:"content";s:50241:"description = "stable development"
 ==
 <!DOCTYPE html>
 <html>
@@ -36,7 +36,7 @@
         <link rel="stylesheet" type="text/css" href="http://cdn.jsdelivr.net/jquery.slick/1.5.5/slick.css" />
         <link rel="stylesheet" type="text/css" href="http://www.bellhelicopter.com/Presentation/includes/js/lib/lazyYT.css" />
         <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
-        {% partial "config" %}
+        {% partial "config/config.htm" %}
 
         <script>
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -922,7 +922,7 @@
 
           </footer>
         </body>
-        </html>";s:5:"mtime";i:1474998674;s:6:"markup";s:50190:"<!DOCTYPE html>
+        </html>";s:5:"mtime";i:1475257617;s:6:"markup";s:50201:"<!DOCTYPE html>
 <html>
 <head>
 
@@ -958,7 +958,7 @@
         <link rel="stylesheet" type="text/css" href="http://cdn.jsdelivr.net/jquery.slick/1.5.5/slick.css" />
         <link rel="stylesheet" type="text/css" href="http://www.bellhelicopter.com/Presentation/includes/js/lib/lazyYT.css" />
         <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>
-        {% partial "config" %}
+        {% partial "config/config.htm" %}
 
         <script>
           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

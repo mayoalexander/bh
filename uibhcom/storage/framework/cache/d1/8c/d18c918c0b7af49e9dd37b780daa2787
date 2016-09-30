@@ -1,27 +1,15 @@
-1475256190a:1:{s:8:"home.htm";a:10:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:282:"title = "Home"
+1475260271a:1:{s:8:"home.htm";a:10:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:187:"title = "Home"
 url = "/"
 layout = "bh-live"
 meta_title = "Home"
 is_hidden = 0
 ==
-{% content "hero/bell-luxurylounge.htm" %}
+{% partial "bell/header.htm" %}
 
-<div class="jumbotron">
-    <div class="container">
-        {% content "bell/ui-home.htm" %}
-    </div>
-</div>
-
-<div class="container">
+{% partial "bell/hero.htm" %}
     
-</div>";s:5:"mtime";i:1475162632;s:6:"markup";s:201:"{% content "hero/bell-luxurylounge.htm" %}
+{% content "bell/frontpage.htm" %}";s:5:"mtime";i:1475259068;s:6:"markup";s:106:"{% partial "bell/header.htm" %}
 
-<div class="jumbotron">
-    <div class="container">
-        {% content "bell/ui-home.htm" %}
-    </div>
-</div>
-
-<div class="container">
+{% partial "bell/hero.htm" %}
     
-</div>";s:4:"code";N;s:5:"title";s:4:"Home";s:3:"url";s:1:"/";s:6:"layout";s:7:"bh-live";s:10:"meta_title";s:4:"Home";s:9:"is_hidden";s:1:"0";}}
+{% content "bell/frontpage.htm" %}";s:4:"code";N;s:5:"title";s:4:"Home";s:3:"url";s:1:"/";s:6:"layout";s:7:"bh-live";s:10:"meta_title";s:4:"Home";s:9:"is_hidden";s:1:"0";}}

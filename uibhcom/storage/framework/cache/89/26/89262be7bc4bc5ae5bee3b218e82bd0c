@@ -1,0 +1,20 @@
+1475258223a:1:{s:17:"config/config.htm";a:6:{s:8:"fileName";s:17:"config/config.htm";s:7:"content";s:193:"==
+<script>
+    function debug(data) {
+        console.log(data);
+    }
+    function disableLinks() {
+    	$('a').click(function(e){
+    		e.preventDefault();
+    	});
+    }
+</script>";s:5:"mtime";i:1475257515;s:6:"markup";s:189:"<script>
+    function debug(data) {
+        console.log(data);
+    }
+    function disableLinks() {
+    	$('a').click(function(e){
+    		e.preventDefault();
+    	});
+    }
+</script>";s:4:"code";N;s:17:"_PARSER_ERROR_INI";s:0:"";}}

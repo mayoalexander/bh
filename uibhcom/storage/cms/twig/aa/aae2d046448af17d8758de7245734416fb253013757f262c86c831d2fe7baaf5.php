@@ -55,7 +55,7 @@ class __TwigTemplate_787a5b8a1af4f34f0dded793e657acb01b97520d21ad610c5d76c1f5e2d
         ";
         // line 37
         $context['__cms_partial_params'] = [];
-        echo $this->env->getExtension('CMS')->partialFunction("config"        , $context['__cms_partial_params']        );
+        echo $this->env->getExtension('CMS')->partialFunction("config/config.htm"        , $context['__cms_partial_params']        );
         unset($context['__cms_partial_params']);
         // line 38
         echo "
@@ -1000,7 +1000,7 @@ class __TwigTemplate_787a5b8a1af4f34f0dded793e657acb01b97520d21ad610c5d76c1f5e2d
 /*         <link rel="stylesheet" type="text/css" href="http://cdn.jsdelivr.net/jquery.slick/1.5.5/slick.css" />*/
 /*         <link rel="stylesheet" type="text/css" href="http://www.bellhelicopter.com/Presentation/includes/js/lib/lazyYT.css" />*/
 /*         <script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=" crossorigin="anonymous"></script>*/
-/*         {% partial "config" %}*/
+/*         {% partial "config/config.htm" %}*/
 /* */
 /*         <script>*/
 /*           (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){*/

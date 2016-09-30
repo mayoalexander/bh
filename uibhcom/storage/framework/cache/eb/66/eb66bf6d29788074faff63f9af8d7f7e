@@ -1,0 +1,815 @@
+1475259291a:1:{s:18:"bell/frontpage.htm";a:6:{s:8:"fileName";s:18:"bell/frontpage.htm";s:7:"content";s:21488:"
+        <a name="homeMain" id="homeMain"></a>
+
+        <div class="container-alt">
+            <div class="container container-padded">
+                <div class="row row-flex-md">
+                    <div class="col-md-4 col-sm-6">
+                        <div class="clearfix visible-sm-block"></div>
+                        <div class="home-cta-image" style="display: block; background-image: url('http://bellhelicopter.com/~/media/bell/images/navigation/fw-alliance-airshow-small.ashx');">
+                        </div>
+                        <div class="home-cta-text">
+                            <h3>Bell Helicopter Fort Worth Alliance Air Show</h3>
+                            <p>The Bell Helicopter Fort Worth Alliance Air Show is October 15 - 16. We hope to see you there!</p>
+                        </div>
+                        <div class="home-cta-button">
+                            <button class="btn btn-muted btn-block" onclick="window.location = 'http://www.allianceairshow.com/' ">More About the Show</button>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="clearfix visible-sm-block"></div>
+                        <div class="home-cta-image" style="display: block; background-image: url('http://bellhelicopter.com/~/media/bell/images/navigation/v-247-small.ashx');">
+                        </div>
+                        <div class="home-cta-text">
+                            <h3>Bell V-247 Vigilant</h3>
+                            <p>Persistent capability providing lethal reach with runway independence.</p>
+                        </div>
+                        <div class="home-cta-button">
+                            <button class="btn btn-muted btn-block" onclick="window.location = '/news/press-release/2016/9/v247-vigilant' ">Bell V-247 Vigilant</button>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="clearfix visible-sm-block"></div>
+                        <div class="home-cta-image" style="display: block; background-image: url('http://bellhelicopter.com/~/media/bell/images/navigation/css/services.ashx');">
+                        </div>
+                        <div class="home-cta-text">
+                            <h3>Customer Advantage Plans</h3>
+                            <p>Customer Advantage Plans (CAP) safeguard your direct maintenance costs and provide the ultimate in cost predictability.</p>
+                        </div>
+                        <div class="home-cta-button">
+                            <button class="btn btn-muted btn-block" onclick="window.location = '/support-and-service/services/customer-advantage-plans' ">Learn More about CAP</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-alt container-padded home-featured-product-container">
+            <div class="container" id="sectionSpecs">
+                <div class="row text-center">
+                    <div class="col-sm-12">
+                        <h2>Featured Products</h2>
+                        <div class="btn-group section-tabs slick-carousel-nav hidden-xs" id="FeaturedProductsCarouselNav" data-navfor="FeaturedProductsCarousel">
+
+                            <button type="button" class="btn btn-default active" data-index="0">Bell 429WLG</button>
+                            <button type="button" class="btn btn-default " data-index="1">Bell 407GXP</button>
+                            <button type="button" class="btn btn-default " data-index="2">Bell Boeing V-22 Osprey</button>
+                            <button type="button" class="btn btn-default " data-index="3">Bell 505 Jet Ranger X</button>
+                        </div>
+                        <div class="btn-group mobile-carousel-nav visible-xs" data-navfor="FeaturedProductsCarousel">
+                            <button type="button" class="btn btn-default btn-block dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <span class="button-title">Bell 429WLG</span> <span class="caret"></span>
+                            </button>
+                            <ul class="dropdown-menu dropdown-menu-full">
+                                <li><a data-index="0">Bell 429WLG</a></li>
+                                <li><a data-index="1">Bell 407GXP</a></li>
+                                <li><a data-index="2">Bell Boeing V-22 Osprey</a></li>
+                                <li><a data-index="3">Bell 505 Jet Ranger X</a></li>
+                            </ul>
+                        </div>
+                        <br><br>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="slick-carousel" id="FeaturedProductsCarousel">
+
+                            <div class="row">
+                                <div class="col-sm-5 col-sm-offset-1">
+                                    <div class="imagePlaceholder image-250px" style="background-image: url('http://bellhelicopter.com/~/media/bell/products/bell 429wlg/bell_429wlg_50deg.ashx'); background-color: transparent; background-size: 100%; height: 300px; background-repeat: no-repeat; background-position: center bottom;"></div>
+                                </div>
+
+                                <div class="col-sm-5">
+                                    <a href="/commercial/bell-429wlg" class="btn btn-default pull-right">Learn More</a>
+                                    <h3 class="feature-heading">Bell 429WLG</h3>
+                                    <p>The Bell&nbsp;429WLG adds retractable nose and main landing gear with electrical flight deck actuation and braking capability to the Bell&nbsp;429WLG's advanced integrated avionics and proven speed range and hover performance.</p>
+                                    <br>
+                                    <br>
+                                    <div class="row feature-spotlight">
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-dashboard text-large"></div>
+                                            154 kts Max Cruise
+                                        </div>
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-wrench text-large"></div>
+                                            Retractable Landing Gear
+                                        </div>
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-usergroup text-large"></div>
+                                            7 Passengers
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-5 col-sm-offset-1">
+                                    <div class="imagePlaceholder image-250px" style="background-image: url('http://bellhelicopter.com/~/media/bell/products/bell 407gxp/bell_407_50deg.ashx'); background-color: transparent; background-size: 100%; height: 300px; background-repeat: no-repeat; background-position: center bottom;"></div>
+                                </div>
+
+                                <div class="col-sm-5">
+                                    <a href="/commercial/bell-407gxp" class="btn btn-default pull-right">Learn More</a>
+                                    <h3 class="feature-heading">Bell 407GXP</h3>
+                                    <p><span style="font-weight: lighter;"></span></p>
+                                    <p>The Bell&nbsp;407GXP integrates reliability, speed, performance and maneuverability with a cabin configurable for an array of missions and payloads. Its Rolls-Royce&nbsp;250-C47B/8 turbine FADEC engine delivers exceptional hot and high performance with the ability to cruise at 133 kts/246 km/h. Its spacious cabin has five club-passenger seats with an additional passenger seat in the cockpit in single pilot operations. For added passenger comfort, the Bell&nbsp;407GXP also provides a very quiet and smooth ride in virtually all weather conditions.</p>
+                                    <br>
+                                    <div class="row feature-spotlight">
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-dashboard text-large"></div>
+                                            140 kts Max Speed
+                                        </div>
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-downloadbox text-large"></div>
+                                            2,558 lbs. Useful Load (IGW)
+                                        </div>
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-usergroup text-large"></div>
+                                            6 Passengers
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-5 col-sm-offset-1">
+                                    <div class="imagePlaceholder image-250px" style="background-image: url('http://bellhelicopter.com/~/media/bell/products/bell boeing v-22/bell_mv22_50deg.ashx'); background-color: transparent; background-size: 100%; height: 300px; background-repeat: no-repeat; background-position: center bottom;"></div>
+                                </div>
+                                <div class="col-sm-5">
+                                    <a href="/military/bell-boeing-v-22" class="btn btn-default pull-right">Learn More</a>
+                                    <h3 class="feature-heading">Bell Boeing V-22 Osprey</h3>
+                                    <p>The Bell&nbsp;Boeing&nbsp;V-22 is the world&rsquo;s first production tiltrotor aircraft, successfully blending the vertical flight capability of a helicopter with the speed, range, altitude and endurance of an airplane. This unique combination provides the warfighter with an unprecedented advantage. This allows more effective mission execution and realization of missions previously unachievable in one aircraft. Comprehensively tested and currently in full-rate production, the Bell&nbsp;Boeing&nbsp;V-22 has proven to be a survivable and transformational platform in the most challenging environments on the planet.</p>
+                                    <br>
+                                    <div class="row feature-spotlight">
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-dashboard text-large"></div>
+                                            266 kts Max Cruise
+                                        </div>
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-navigate text-large"></div>
+                                            24,000 ft Service Ceiling
+                                        </div>
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-usergroup text-large"></div>
+                                            24 Troop Seats
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-5 col-sm-offset-1">
+                                    <div class="imagePlaceholder image-250px" style="background-image: url('http://bellhelicopter.com/~/media/bell/products/bell 505/bell_505_50deg.ashx'); background-color: transparent; background-size: 100%; height: 300px; background-repeat: no-repeat; background-position: center bottom;"></div>
+                                </div>
+
+                                <div class="col-sm-5">
+                                    <a href="/commercial/bell-505" class="btn btn-default pull-right">Learn More</a>
+                                    <h3 class="feature-heading">Bell 505 Jet Ranger X</h3>
+                                    <p><span style="font-weight: lighter;"></span></p>
+                                    <p>
+                                        The Bell&nbsp;505&nbsp;Jet&nbsp;Ranger&nbsp;X is Bell&nbsp;Helicopter&rsquo;s new five-seat aircraft designed for safety, efficiency and reliability through the use of advanced avionics technology. It incorporates proven dynamic components, advanced aerodynamic design, a dual channel FADEC Turbomeca Arrius 2R engine and best-in-class value.</p>
+                                        <br>
+                                        <br>
+                                        <div class="row feature-spotlight">
+                                            <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                                <div class="ss-icon ss-geomicons-squared ss-dashboard text-large"></div>
+                                                125+ kts Max Cruise
+                                            </div>
+                                            <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                                <div class="ss-icon ss-geomicons-squared ss-downloadbox text-large"></div>
+                                                1,500 lbs. Useful Load
+                                            </div>
+                                            <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                                <div class="ss-icon ss-geomicons-squared ss-usergroup text-large"></div>
+                                                4 Passengers
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div style="background-image: url(''); background-color: #ac1a2f;color:#fff;">
+                <div class="container container-padded-large">
+                    <div class="row text-center text-large text-white">
+                        <div class="col-md-2">&nbsp;</div>
+                        <div class="col-md-8">
+                            Changing the way the world flies with safe and superior vertical lift that saves lives, preserves freedom and provides customers exceptional value.
+                        </div>
+                        <div class="col-md-2">&nbsp;</div>
+                    </div>
+                </div>
+            </div>
+            <div class="container-alt" id="sectionNews">
+               <div class="container container-padded">
+                <!-- Example row of columns -->
+                <div class="row text-center">
+                    <h2>News</h2><br><br>
+                </div>
+                <div class="row relative">                    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-item-url" data-url="/news/press-release/2016/9/ausa-presence">
+                    <div class="news-block news-block-image"><div style="background-image: url('http://bellhelicopter.com/~/media/bell/news/press releases/2016/september/v280_hero.ashx');height: 200px;background-size: cover;border-radius: 5px 5px 0 0;background-position: center bottom;"></div>                        <div class="news-icon ss-icon ss-social-regular ss-standard ss-newspaper"></div>
+                    <div class="news-block-content">
+                        <div class="news-block-title">Bell Helicopter Exhibits Latest Tiltrotor Proposals At Association of the United States Army (AUSA) Annual Meeting & Exposition</div>
+                        <div class="news-block-text">FORT WORTH, Texas (Sep 29, 2016) &ndash; Bell...</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-item-url" data-url="/news/press-release/2016/9/525-magnificent-interior">
+                <div class="news-block news-block-image"><div style="background-image: url('http://bellhelicopter.com/~/media/bell/news/press releases/2016/september/bh_525_vvip_hero.ashx');height: 200px;background-size: cover;border-radius: 5px 5px 0 0;background-position: center bottom;"></div>                        <div class="news-icon ss-icon ss-social-regular ss-standard ss-newspaper"></div>
+                <div class="news-block-content">
+                    <div class="news-block-title">Bell Helicopter and Mecaer Aviation Group Introduce the MAGnificent Interior for the Bell 525 Relentless</div>
+                    <div class="news-block-text">MONACO YACHT SHOW - Monaco (September 28, 2016)...</div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-item-url" data-url="/news/newsroom/2016/september/royal-thai-police">
+            <div class="news-block news-block-image"><div style="background-image: url('http://bellhelicopter.com/~/media/bell/news/newsroom/september images/bell 429_hero.ashx');height: 200px;background-size: cover;border-radius: 5px 5px 0 0;background-position: center bottom;"></div>                        <div class="news-icon ss-icon ss-social-regular ss-standard ss-newspaper"></div>
+            <div class="news-block-content">
+                <div class="news-block-title">Bell Helicopter Participates in Royal Thai Police Office of Logistics Anniversary Event</div>
+                <div class="news-block-text">Bell Helicopter participated in the Royal Thai...</div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-item-url" data-url="/news/newsroom/2016/september/rotorcraft-technology-summit">
+        <div class="news-block">                        <div class="news-icon ss-icon ss-social-regular ss-standard ss-newspaper"></div>
+        <div class="news-block-content">
+            <div class="news-block-title">Bell Helicopter Participates in Rotor & Wing International’s Rotorcraft Technology Summit in Fort Worth, Texas</div>
+            <div class="news-block-text">Bell Helicopter participated in the Rotor &amp; Wing International&rsquo;s Rotorcraft Technology Summit held September 19-20 in Fort Worth, Texas. 
+                This event is designed specifically to identify and...</div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-item-url" data-url="/news/press-release/2016/9/v247-vigilant">
+        <div class="news-block news-block-image"><div style="background-image: url('http://bellhelicopter.com/~/media/bell/news/press releases/2016/september/v247_hero.ashx');height: 200px;background-size: cover;border-radius: 5px 5px 0 0;background-position: center bottom;"></div>                        <div class="news-icon ss-icon ss-social-regular ss-standard ss-newspaper"></div>
+        <div class="news-block-content">
+            <div class="news-block-title">Bell Helicopter Introduces Bell V-247 “Vigilant” Tiltrotor  Unmanned Aerial System in Ship-Borne Configuration</div>
+            <div class="news-block-text">FORT WORTH, Texas (Sept. 22, 2016) &ndash;...</div>
+        </div>
+    </div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-item-url" data-url="/news/newsroom/2016/september/bell-429-provides-speed">
+    <div class="news-block news-block-image"><div style="background-image: url('http://bellhelicopter.com/~/media/bell/news/newsroom/september images/airxiya_bell429 - hero.ashx');height: 200px;background-size: cover;border-radius: 5px 5px 0 0;background-position: center bottom;"></div>                        <div class="news-icon ss-icon ss-social-regular ss-standard ss-newspaper"></div>
+    <div class="news-block-content">
+        <div class="news-block-title">Bell 429: Provides the Speed When It Matters</div>
+        <div class="news-block-text">Life threatening health conditions don&rsquo;t...</div>
+    </div>
+</div>
+</div>
+</div>                <div class="row text-center">
+<button class="btn btn-default" onclick="window.location='/news' ">More News...</button>
+</div>
+
+
+
+</div>
+</div>";s:5:"mtime";i:1475257228;s:6:"markup";s:21479:"<a name="homeMain" id="homeMain"></a>
+
+        <div class="container-alt">
+            <div class="container container-padded">
+                <div class="row row-flex-md">
+                    <div class="col-md-4 col-sm-6">
+                        <div class="clearfix visible-sm-block"></div>
+                        <div class="home-cta-image" style="display: block; background-image: url('http://bellhelicopter.com/~/media/bell/images/navigation/fw-alliance-airshow-small.ashx');">
+                        </div>
+                        <div class="home-cta-text">
+                            <h3>Bell Helicopter Fort Worth Alliance Air Show</h3>
+                            <p>The Bell Helicopter Fort Worth Alliance Air Show is October 15 - 16. We hope to see you there!</p>
+                        </div>
+                        <div class="home-cta-button">
+                            <button class="btn btn-muted btn-block" onclick="window.location = 'http://www.allianceairshow.com/' ">More About the Show</button>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="clearfix visible-sm-block"></div>
+                        <div class="home-cta-image" style="display: block; background-image: url('http://bellhelicopter.com/~/media/bell/images/navigation/v-247-small.ashx');">
+                        </div>
+                        <div class="home-cta-text">
+                            <h3>Bell V-247 Vigilant</h3>
+                            <p>Persistent capability providing lethal reach with runway independence.</p>
+                        </div>
+                        <div class="home-cta-button">
+                            <button class="btn btn-muted btn-block" onclick="window.location = '/news/press-release/2016/9/v247-vigilant' ">Bell V-247 Vigilant</button>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="clearfix visible-sm-block"></div>
+                        <div class="home-cta-image" style="display: block; background-image: url('http://bellhelicopter.com/~/media/bell/images/navigation/css/services.ashx');">
+                        </div>
+                        <div class="home-cta-text">
+                            <h3>Customer Advantage Plans</h3>
+                            <p>Customer Advantage Plans (CAP) safeguard your direct maintenance costs and provide the ultimate in cost predictability.</p>
+                        </div>
+                        <div class="home-cta-button">
+                            <button class="btn btn-muted btn-block" onclick="window.location = '/support-and-service/services/customer-advantage-plans' ">Learn More about CAP</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-alt container-padded home-featured-product-container">
+            <div class="container" id="sectionSpecs">
+                <div class="row text-center">
+                    <div class="col-sm-12">
+                        <h2>Featured Products</h2>
+                        <div class="btn-group section-tabs slick-carousel-nav hidden-xs" id="FeaturedProductsCarouselNav" data-navfor="FeaturedProductsCarousel">
+
+                            <button type="button" class="btn btn-default active" data-index="0">Bell 429WLG</button>
+                            <button type="button" class="btn btn-default " data-index="1">Bell 407GXP</button>
+                            <button type="button" class="btn btn-default " data-index="2">Bell Boeing V-22 Osprey</button>
+                            <button type="button" class="btn btn-default " data-index="3">Bell 505 Jet Ranger X</button>
+                        </div>
+                        <div class="btn-group mobile-carousel-nav visible-xs" data-navfor="FeaturedProductsCarousel">
+                            <button type="button" class="btn btn-default btn-block dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <span class="button-title">Bell 429WLG</span> <span class="caret"></span>
+                            </button>
+                            <ul class="dropdown-menu dropdown-menu-full">
+                                <li><a data-index="0">Bell 429WLG</a></li>
+                                <li><a data-index="1">Bell 407GXP</a></li>
+                                <li><a data-index="2">Bell Boeing V-22 Osprey</a></li>
+                                <li><a data-index="3">Bell 505 Jet Ranger X</a></li>
+                            </ul>
+                        </div>
+                        <br><br>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="slick-carousel" id="FeaturedProductsCarousel">
+
+                            <div class="row">
+                                <div class="col-sm-5 col-sm-offset-1">
+                                    <div class="imagePlaceholder image-250px" style="background-image: url('http://bellhelicopter.com/~/media/bell/products/bell 429wlg/bell_429wlg_50deg.ashx'); background-color: transparent; background-size: 100%; height: 300px; background-repeat: no-repeat; background-position: center bottom;"></div>
+                                </div>
+
+                                <div class="col-sm-5">
+                                    <a href="/commercial/bell-429wlg" class="btn btn-default pull-right">Learn More</a>
+                                    <h3 class="feature-heading">Bell 429WLG</h3>
+                                    <p>The Bell&nbsp;429WLG adds retractable nose and main landing gear with electrical flight deck actuation and braking capability to the Bell&nbsp;429WLG's advanced integrated avionics and proven speed range and hover performance.</p>
+                                    <br>
+                                    <br>
+                                    <div class="row feature-spotlight">
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-dashboard text-large"></div>
+                                            154 kts Max Cruise
+                                        </div>
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-wrench text-large"></div>
+                                            Retractable Landing Gear
+                                        </div>
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-usergroup text-large"></div>
+                                            7 Passengers
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-5 col-sm-offset-1">
+                                    <div class="imagePlaceholder image-250px" style="background-image: url('http://bellhelicopter.com/~/media/bell/products/bell 407gxp/bell_407_50deg.ashx'); background-color: transparent; background-size: 100%; height: 300px; background-repeat: no-repeat; background-position: center bottom;"></div>
+                                </div>
+
+                                <div class="col-sm-5">
+                                    <a href="/commercial/bell-407gxp" class="btn btn-default pull-right">Learn More</a>
+                                    <h3 class="feature-heading">Bell 407GXP</h3>
+                                    <p><span style="font-weight: lighter;"></span></p>
+                                    <p>The Bell&nbsp;407GXP integrates reliability, speed, performance and maneuverability with a cabin configurable for an array of missions and payloads. Its Rolls-Royce&nbsp;250-C47B/8 turbine FADEC engine delivers exceptional hot and high performance with the ability to cruise at 133 kts/246 km/h. Its spacious cabin has five club-passenger seats with an additional passenger seat in the cockpit in single pilot operations. For added passenger comfort, the Bell&nbsp;407GXP also provides a very quiet and smooth ride in virtually all weather conditions.</p>
+                                    <br>
+                                    <div class="row feature-spotlight">
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-dashboard text-large"></div>
+                                            140 kts Max Speed
+                                        </div>
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-downloadbox text-large"></div>
+                                            2,558 lbs. Useful Load (IGW)
+                                        </div>
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-usergroup text-large"></div>
+                                            6 Passengers
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-5 col-sm-offset-1">
+                                    <div class="imagePlaceholder image-250px" style="background-image: url('http://bellhelicopter.com/~/media/bell/products/bell boeing v-22/bell_mv22_50deg.ashx'); background-color: transparent; background-size: 100%; height: 300px; background-repeat: no-repeat; background-position: center bottom;"></div>
+                                </div>
+                                <div class="col-sm-5">
+                                    <a href="/military/bell-boeing-v-22" class="btn btn-default pull-right">Learn More</a>
+                                    <h3 class="feature-heading">Bell Boeing V-22 Osprey</h3>
+                                    <p>The Bell&nbsp;Boeing&nbsp;V-22 is the world&rsquo;s first production tiltrotor aircraft, successfully blending the vertical flight capability of a helicopter with the speed, range, altitude and endurance of an airplane. This unique combination provides the warfighter with an unprecedented advantage. This allows more effective mission execution and realization of missions previously unachievable in one aircraft. Comprehensively tested and currently in full-rate production, the Bell&nbsp;Boeing&nbsp;V-22 has proven to be a survivable and transformational platform in the most challenging environments on the planet.</p>
+                                    <br>
+                                    <div class="row feature-spotlight">
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-dashboard text-large"></div>
+                                            266 kts Max Cruise
+                                        </div>
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-navigate text-large"></div>
+                                            24,000 ft Service Ceiling
+                                        </div>
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-usergroup text-large"></div>
+                                            24 Troop Seats
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-5 col-sm-offset-1">
+                                    <div class="imagePlaceholder image-250px" style="background-image: url('http://bellhelicopter.com/~/media/bell/products/bell 505/bell_505_50deg.ashx'); background-color: transparent; background-size: 100%; height: 300px; background-repeat: no-repeat; background-position: center bottom;"></div>
+                                </div>
+
+                                <div class="col-sm-5">
+                                    <a href="/commercial/bell-505" class="btn btn-default pull-right">Learn More</a>
+                                    <h3 class="feature-heading">Bell 505 Jet Ranger X</h3>
+                                    <p><span style="font-weight: lighter;"></span></p>
+                                    <p>
+                                        The Bell&nbsp;505&nbsp;Jet&nbsp;Ranger&nbsp;X is Bell&nbsp;Helicopter&rsquo;s new five-seat aircraft designed for safety, efficiency and reliability through the use of advanced avionics technology. It incorporates proven dynamic components, advanced aerodynamic design, a dual channel FADEC Turbomeca Arrius 2R engine and best-in-class value.</p>
+                                        <br>
+                                        <br>
+                                        <div class="row feature-spotlight">
+                                            <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                                <div class="ss-icon ss-geomicons-squared ss-dashboard text-large"></div>
+                                                125+ kts Max Cruise
+                                            </div>
+                                            <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                                <div class="ss-icon ss-geomicons-squared ss-downloadbox text-large"></div>
+                                                1,500 lbs. Useful Load
+                                            </div>
+                                            <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                                <div class="ss-icon ss-geomicons-squared ss-usergroup text-large"></div>
+                                                4 Passengers
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div style="background-image: url(''); background-color: #ac1a2f;color:#fff;">
+                <div class="container container-padded-large">
+                    <div class="row text-center text-large text-white">
+                        <div class="col-md-2">&nbsp;</div>
+                        <div class="col-md-8">
+                            Changing the way the world flies with safe and superior vertical lift that saves lives, preserves freedom and provides customers exceptional value.
+                        </div>
+                        <div class="col-md-2">&nbsp;</div>
+                    </div>
+                </div>
+            </div>
+            <div class="container-alt" id="sectionNews">
+               <div class="container container-padded">
+                <!-- Example row of columns -->
+                <div class="row text-center">
+                    <h2>News</h2><br><br>
+                </div>
+                <div class="row relative">                    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-item-url" data-url="/news/press-release/2016/9/ausa-presence">
+                    <div class="news-block news-block-image"><div style="background-image: url('http://bellhelicopter.com/~/media/bell/news/press releases/2016/september/v280_hero.ashx');height: 200px;background-size: cover;border-radius: 5px 5px 0 0;background-position: center bottom;"></div>                        <div class="news-icon ss-icon ss-social-regular ss-standard ss-newspaper"></div>
+                    <div class="news-block-content">
+                        <div class="news-block-title">Bell Helicopter Exhibits Latest Tiltrotor Proposals At Association of the United States Army (AUSA) Annual Meeting & Exposition</div>
+                        <div class="news-block-text">FORT WORTH, Texas (Sep 29, 2016) &ndash; Bell...</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-item-url" data-url="/news/press-release/2016/9/525-magnificent-interior">
+                <div class="news-block news-block-image"><div style="background-image: url('http://bellhelicopter.com/~/media/bell/news/press releases/2016/september/bh_525_vvip_hero.ashx');height: 200px;background-size: cover;border-radius: 5px 5px 0 0;background-position: center bottom;"></div>                        <div class="news-icon ss-icon ss-social-regular ss-standard ss-newspaper"></div>
+                <div class="news-block-content">
+                    <div class="news-block-title">Bell Helicopter and Mecaer Aviation Group Introduce the MAGnificent Interior for the Bell 525 Relentless</div>
+                    <div class="news-block-text">MONACO YACHT SHOW - Monaco (September 28, 2016)...</div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-item-url" data-url="/news/newsroom/2016/september/royal-thai-police">
+            <div class="news-block news-block-image"><div style="background-image: url('http://bellhelicopter.com/~/media/bell/news/newsroom/september images/bell 429_hero.ashx');height: 200px;background-size: cover;border-radius: 5px 5px 0 0;background-position: center bottom;"></div>                        <div class="news-icon ss-icon ss-social-regular ss-standard ss-newspaper"></div>
+            <div class="news-block-content">
+                <div class="news-block-title">Bell Helicopter Participates in Royal Thai Police Office of Logistics Anniversary Event</div>
+                <div class="news-block-text">Bell Helicopter participated in the Royal Thai...</div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-item-url" data-url="/news/newsroom/2016/september/rotorcraft-technology-summit">
+        <div class="news-block">                        <div class="news-icon ss-icon ss-social-regular ss-standard ss-newspaper"></div>
+        <div class="news-block-content">
+            <div class="news-block-title">Bell Helicopter Participates in Rotor & Wing International’s Rotorcraft Technology Summit in Fort Worth, Texas</div>
+            <div class="news-block-text">Bell Helicopter participated in the Rotor &amp; Wing International&rsquo;s Rotorcraft Technology Summit held September 19-20 in Fort Worth, Texas. 
+                This event is designed specifically to identify and...</div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-item-url" data-url="/news/press-release/2016/9/v247-vigilant">
+        <div class="news-block news-block-image"><div style="background-image: url('http://bellhelicopter.com/~/media/bell/news/press releases/2016/september/v247_hero.ashx');height: 200px;background-size: cover;border-radius: 5px 5px 0 0;background-position: center bottom;"></div>                        <div class="news-icon ss-icon ss-social-regular ss-standard ss-newspaper"></div>
+        <div class="news-block-content">
+            <div class="news-block-title">Bell Helicopter Introduces Bell V-247 “Vigilant” Tiltrotor  Unmanned Aerial System in Ship-Borne Configuration</div>
+            <div class="news-block-text">FORT WORTH, Texas (Sept. 22, 2016) &ndash;...</div>
+        </div>
+    </div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-item-url" data-url="/news/newsroom/2016/september/bell-429-provides-speed">
+    <div class="news-block news-block-image"><div style="background-image: url('http://bellhelicopter.com/~/media/bell/news/newsroom/september images/airxiya_bell429 - hero.ashx');height: 200px;background-size: cover;border-radius: 5px 5px 0 0;background-position: center bottom;"></div>                        <div class="news-icon ss-icon ss-social-regular ss-standard ss-newspaper"></div>
+    <div class="news-block-content">
+        <div class="news-block-title">Bell 429: Provides the Speed When It Matters</div>
+        <div class="news-block-text">Life threatening health conditions don&rsquo;t...</div>
+    </div>
+</div>
+</div>
+</div>                <div class="row text-center">
+<button class="btn btn-default" onclick="window.location='/news' ">More News...</button>
+</div>
+
+
+
+</div>
+</div>";s:4:"code";N;s:12:"parsedMarkup";s:21479:"<a name="homeMain" id="homeMain"></a>
+
+        <div class="container-alt">
+            <div class="container container-padded">
+                <div class="row row-flex-md">
+                    <div class="col-md-4 col-sm-6">
+                        <div class="clearfix visible-sm-block"></div>
+                        <div class="home-cta-image" style="display: block; background-image: url('http://bellhelicopter.com/~/media/bell/images/navigation/fw-alliance-airshow-small.ashx');">
+                        </div>
+                        <div class="home-cta-text">
+                            <h3>Bell Helicopter Fort Worth Alliance Air Show</h3>
+                            <p>The Bell Helicopter Fort Worth Alliance Air Show is October 15 - 16. We hope to see you there!</p>
+                        </div>
+                        <div class="home-cta-button">
+                            <button class="btn btn-muted btn-block" onclick="window.location = 'http://www.allianceairshow.com/' ">More About the Show</button>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="clearfix visible-sm-block"></div>
+                        <div class="home-cta-image" style="display: block; background-image: url('http://bellhelicopter.com/~/media/bell/images/navigation/v-247-small.ashx');">
+                        </div>
+                        <div class="home-cta-text">
+                            <h3>Bell V-247 Vigilant</h3>
+                            <p>Persistent capability providing lethal reach with runway independence.</p>
+                        </div>
+                        <div class="home-cta-button">
+                            <button class="btn btn-muted btn-block" onclick="window.location = '/news/press-release/2016/9/v247-vigilant' ">Bell V-247 Vigilant</button>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="clearfix visible-sm-block"></div>
+                        <div class="home-cta-image" style="display: block; background-image: url('http://bellhelicopter.com/~/media/bell/images/navigation/css/services.ashx');">
+                        </div>
+                        <div class="home-cta-text">
+                            <h3>Customer Advantage Plans</h3>
+                            <p>Customer Advantage Plans (CAP) safeguard your direct maintenance costs and provide the ultimate in cost predictability.</p>
+                        </div>
+                        <div class="home-cta-button">
+                            <button class="btn btn-muted btn-block" onclick="window.location = '/support-and-service/services/customer-advantage-plans' ">Learn More about CAP</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container-alt container-padded home-featured-product-container">
+            <div class="container" id="sectionSpecs">
+                <div class="row text-center">
+                    <div class="col-sm-12">
+                        <h2>Featured Products</h2>
+                        <div class="btn-group section-tabs slick-carousel-nav hidden-xs" id="FeaturedProductsCarouselNav" data-navfor="FeaturedProductsCarousel">
+
+                            <button type="button" class="btn btn-default active" data-index="0">Bell 429WLG</button>
+                            <button type="button" class="btn btn-default " data-index="1">Bell 407GXP</button>
+                            <button type="button" class="btn btn-default " data-index="2">Bell Boeing V-22 Osprey</button>
+                            <button type="button" class="btn btn-default " data-index="3">Bell 505 Jet Ranger X</button>
+                        </div>
+                        <div class="btn-group mobile-carousel-nav visible-xs" data-navfor="FeaturedProductsCarousel">
+                            <button type="button" class="btn btn-default btn-block dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <span class="button-title">Bell 429WLG</span> <span class="caret"></span>
+                            </button>
+                            <ul class="dropdown-menu dropdown-menu-full">
+                                <li><a data-index="0">Bell 429WLG</a></li>
+                                <li><a data-index="1">Bell 407GXP</a></li>
+                                <li><a data-index="2">Bell Boeing V-22 Osprey</a></li>
+                                <li><a data-index="3">Bell 505 Jet Ranger X</a></li>
+                            </ul>
+                        </div>
+                        <br><br>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="slick-carousel" id="FeaturedProductsCarousel">
+
+                            <div class="row">
+                                <div class="col-sm-5 col-sm-offset-1">
+                                    <div class="imagePlaceholder image-250px" style="background-image: url('http://bellhelicopter.com/~/media/bell/products/bell 429wlg/bell_429wlg_50deg.ashx'); background-color: transparent; background-size: 100%; height: 300px; background-repeat: no-repeat; background-position: center bottom;"></div>
+                                </div>
+
+                                <div class="col-sm-5">
+                                    <a href="/commercial/bell-429wlg" class="btn btn-default pull-right">Learn More</a>
+                                    <h3 class="feature-heading">Bell 429WLG</h3>
+                                    <p>The Bell&nbsp;429WLG adds retractable nose and main landing gear with electrical flight deck actuation and braking capability to the Bell&nbsp;429WLG's advanced integrated avionics and proven speed range and hover performance.</p>
+                                    <br>
+                                    <br>
+                                    <div class="row feature-spotlight">
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-dashboard text-large"></div>
+                                            154 kts Max Cruise
+                                        </div>
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-wrench text-large"></div>
+                                            Retractable Landing Gear
+                                        </div>
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-usergroup text-large"></div>
+                                            7 Passengers
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-5 col-sm-offset-1">
+                                    <div class="imagePlaceholder image-250px" style="background-image: url('http://bellhelicopter.com/~/media/bell/products/bell 407gxp/bell_407_50deg.ashx'); background-color: transparent; background-size: 100%; height: 300px; background-repeat: no-repeat; background-position: center bottom;"></div>
+                                </div>
+
+                                <div class="col-sm-5">
+                                    <a href="/commercial/bell-407gxp" class="btn btn-default pull-right">Learn More</a>
+                                    <h3 class="feature-heading">Bell 407GXP</h3>
+                                    <p><span style="font-weight: lighter;"></span></p>
+                                    <p>The Bell&nbsp;407GXP integrates reliability, speed, performance and maneuverability with a cabin configurable for an array of missions and payloads. Its Rolls-Royce&nbsp;250-C47B/8 turbine FADEC engine delivers exceptional hot and high performance with the ability to cruise at 133 kts/246 km/h. Its spacious cabin has five club-passenger seats with an additional passenger seat in the cockpit in single pilot operations. For added passenger comfort, the Bell&nbsp;407GXP also provides a very quiet and smooth ride in virtually all weather conditions.</p>
+                                    <br>
+                                    <div class="row feature-spotlight">
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-dashboard text-large"></div>
+                                            140 kts Max Speed
+                                        </div>
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-downloadbox text-large"></div>
+                                            2,558 lbs. Useful Load (IGW)
+                                        </div>
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-usergroup text-large"></div>
+                                            6 Passengers
+                                        </div>
+                                    </div>
+                                </div>
+
+
+
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-5 col-sm-offset-1">
+                                    <div class="imagePlaceholder image-250px" style="background-image: url('http://bellhelicopter.com/~/media/bell/products/bell boeing v-22/bell_mv22_50deg.ashx'); background-color: transparent; background-size: 100%; height: 300px; background-repeat: no-repeat; background-position: center bottom;"></div>
+                                </div>
+                                <div class="col-sm-5">
+                                    <a href="/military/bell-boeing-v-22" class="btn btn-default pull-right">Learn More</a>
+                                    <h3 class="feature-heading">Bell Boeing V-22 Osprey</h3>
+                                    <p>The Bell&nbsp;Boeing&nbsp;V-22 is the world&rsquo;s first production tiltrotor aircraft, successfully blending the vertical flight capability of a helicopter with the speed, range, altitude and endurance of an airplane. This unique combination provides the warfighter with an unprecedented advantage. This allows more effective mission execution and realization of missions previously unachievable in one aircraft. Comprehensively tested and currently in full-rate production, the Bell&nbsp;Boeing&nbsp;V-22 has proven to be a survivable and transformational platform in the most challenging environments on the planet.</p>
+                                    <br>
+                                    <div class="row feature-spotlight">
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-dashboard text-large"></div>
+                                            266 kts Max Cruise
+                                        </div>
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-navigate text-large"></div>
+                                            24,000 ft Service Ceiling
+                                        </div>
+                                        <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                            <div class="ss-icon ss-geomicons-squared ss-usergroup text-large"></div>
+                                            24 Troop Seats
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-5 col-sm-offset-1">
+                                    <div class="imagePlaceholder image-250px" style="background-image: url('http://bellhelicopter.com/~/media/bell/products/bell 505/bell_505_50deg.ashx'); background-color: transparent; background-size: 100%; height: 300px; background-repeat: no-repeat; background-position: center bottom;"></div>
+                                </div>
+
+                                <div class="col-sm-5">
+                                    <a href="/commercial/bell-505" class="btn btn-default pull-right">Learn More</a>
+                                    <h3 class="feature-heading">Bell 505 Jet Ranger X</h3>
+                                    <p><span style="font-weight: lighter;"></span></p>
+                                    <p>
+                                        The Bell&nbsp;505&nbsp;Jet&nbsp;Ranger&nbsp;X is Bell&nbsp;Helicopter&rsquo;s new five-seat aircraft designed for safety, efficiency and reliability through the use of advanced avionics technology. It incorporates proven dynamic components, advanced aerodynamic design, a dual channel FADEC Turbomeca Arrius 2R engine and best-in-class value.</p>
+                                        <br>
+                                        <br>
+                                        <div class="row feature-spotlight">
+                                            <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                                <div class="ss-icon ss-geomicons-squared ss-dashboard text-large"></div>
+                                                125+ kts Max Cruise
+                                            </div>
+                                            <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                                <div class="ss-icon ss-geomicons-squared ss-downloadbox text-large"></div>
+                                                1,500 lbs. Useful Load
+                                            </div>
+                                            <div class="col-md-3 col-sm-6 col-xs-3 text-center">
+                                                <div class="ss-icon ss-geomicons-squared ss-usergroup text-large"></div>
+                                                4 Passengers
+                                            </div>
+                                        </div>
+                                    </div>
+
+
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div style="background-image: url(''); background-color: #ac1a2f;color:#fff;">
+                <div class="container container-padded-large">
+                    <div class="row text-center text-large text-white">
+                        <div class="col-md-2">&nbsp;</div>
+                        <div class="col-md-8">
+                            Changing the way the world flies with safe and superior vertical lift that saves lives, preserves freedom and provides customers exceptional value.
+                        </div>
+                        <div class="col-md-2">&nbsp;</div>
+                    </div>
+                </div>
+            </div>
+            <div class="container-alt" id="sectionNews">
+               <div class="container container-padded">
+                <!-- Example row of columns -->
+                <div class="row text-center">
+                    <h2>News</h2><br><br>
+                </div>
+                <div class="row relative">                    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-item-url" data-url="/news/press-release/2016/9/ausa-presence">
+                    <div class="news-block news-block-image"><div style="background-image: url('http://bellhelicopter.com/~/media/bell/news/press releases/2016/september/v280_hero.ashx');height: 200px;background-size: cover;border-radius: 5px 5px 0 0;background-position: center bottom;"></div>                        <div class="news-icon ss-icon ss-social-regular ss-standard ss-newspaper"></div>
+                    <div class="news-block-content">
+                        <div class="news-block-title">Bell Helicopter Exhibits Latest Tiltrotor Proposals At Association of the United States Army (AUSA) Annual Meeting & Exposition</div>
+                        <div class="news-block-text">FORT WORTH, Texas (Sep 29, 2016) &ndash; Bell...</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-item-url" data-url="/news/press-release/2016/9/525-magnificent-interior">
+                <div class="news-block news-block-image"><div style="background-image: url('http://bellhelicopter.com/~/media/bell/news/press releases/2016/september/bh_525_vvip_hero.ashx');height: 200px;background-size: cover;border-radius: 5px 5px 0 0;background-position: center bottom;"></div>                        <div class="news-icon ss-icon ss-social-regular ss-standard ss-newspaper"></div>
+                <div class="news-block-content">
+                    <div class="news-block-title">Bell Helicopter and Mecaer Aviation Group Introduce the MAGnificent Interior for the Bell 525 Relentless</div>
+                    <div class="news-block-text">MONACO YACHT SHOW - Monaco (September 28, 2016)...</div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-item-url" data-url="/news/newsroom/2016/september/royal-thai-police">
+            <div class="news-block news-block-image"><div style="background-image: url('http://bellhelicopter.com/~/media/bell/news/newsroom/september images/bell 429_hero.ashx');height: 200px;background-size: cover;border-radius: 5px 5px 0 0;background-position: center bottom;"></div>                        <div class="news-icon ss-icon ss-social-regular ss-standard ss-newspaper"></div>
+            <div class="news-block-content">
+                <div class="news-block-title">Bell Helicopter Participates in Royal Thai Police Office of Logistics Anniversary Event</div>
+                <div class="news-block-text">Bell Helicopter participated in the Royal Thai...</div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-item-url" data-url="/news/newsroom/2016/september/rotorcraft-technology-summit">
+        <div class="news-block">                        <div class="news-icon ss-icon ss-social-regular ss-standard ss-newspaper"></div>
+        <div class="news-block-content">
+            <div class="news-block-title">Bell Helicopter Participates in Rotor & Wing International’s Rotorcraft Technology Summit in Fort Worth, Texas</div>
+            <div class="news-block-text">Bell Helicopter participated in the Rotor &amp; Wing International&rsquo;s Rotorcraft Technology Summit held September 19-20 in Fort Worth, Texas. 
+                This event is designed specifically to identify and...</div>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-item-url" data-url="/news/press-release/2016/9/v247-vigilant">
+        <div class="news-block news-block-image"><div style="background-image: url('http://bellhelicopter.com/~/media/bell/news/press releases/2016/september/v247_hero.ashx');height: 200px;background-size: cover;border-radius: 5px 5px 0 0;background-position: center bottom;"></div>                        <div class="news-icon ss-icon ss-social-regular ss-standard ss-newspaper"></div>
+        <div class="news-block-content">
+            <div class="news-block-title">Bell Helicopter Introduces Bell V-247 “Vigilant” Tiltrotor  Unmanned Aerial System in Ship-Borne Configuration</div>
+            <div class="news-block-text">FORT WORTH, Texas (Sept. 22, 2016) &ndash;...</div>
+        </div>
+    </div>
+</div>
+<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 news-item-url" data-url="/news/newsroom/2016/september/bell-429-provides-speed">
+    <div class="news-block news-block-image"><div style="background-image: url('http://bellhelicopter.com/~/media/bell/news/newsroom/september images/airxiya_bell429 - hero.ashx');height: 200px;background-size: cover;border-radius: 5px 5px 0 0;background-position: center bottom;"></div>                        <div class="news-icon ss-icon ss-social-regular ss-standard ss-newspaper"></div>
+    <div class="news-block-content">
+        <div class="news-block-title">Bell 429: Provides the Speed When It Matters</div>
+        <div class="news-block-text">Life threatening health conditions don&rsquo;t...</div>
+    </div>
+</div>
+</div>
+</div>                <div class="row text-center">
+<button class="btn btn-default" onclick="window.location='/news' ">More News...</button>
+</div>
+
+
+
+</div>
+</div>";}}
