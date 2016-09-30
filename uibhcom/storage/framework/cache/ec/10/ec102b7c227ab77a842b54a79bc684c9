@@ -1,4 +1,4 @@
-1475185837a:1:{s:11:"bh-live.htm";a:6:{s:8:"fileName";s:11:"bh-live.htm";s:7:"content";s:50241:"description = "resources pulled from live site"
+1475256190a:1:{s:11:"bh-live.htm";a:6:{s:8:"fileName";s:11:"bh-live.htm";s:7:"content";s:50242:"description = "resources pulled from live site"
 ==
 <!DOCTYPE html>
 <html>
@@ -58,7 +58,7 @@
               var s = document.createElement('script'); s.type = 'text/javascript';
               s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
               var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
-            }x
+            }
             if(window.attachEvent) { window.attachEvent('onload', async_load); }
             else { window.addEventListener('load', async_load, false); }
           })();
@@ -922,7 +922,7 @@
 
           </footer>
         </body>
-        </html>";s:5:"mtime";i:1474998697;s:6:"markup";s:50190:"<!DOCTYPE html>
+        </html>";s:5:"mtime";i:1475247672;s:6:"markup";s:50189:"<!DOCTYPE html>
 <html>
 <head>
 
@@ -980,7 +980,7 @@
               var s = document.createElement('script'); s.type = 'text/javascript';
               s.src = ('https:' == document.location.protocol ? 'https://pi' : 'http://cdn') + '.pardot.com/pd.js';
               var c = document.getElementsByTagName('script')[0]; c.parentNode.insertBefore(s, c);
-            }x
+            }
             if(window.attachEvent) { window.attachEvent('onload', async_load); }
             else { window.addEventListener('load', async_load, false); }
           })();

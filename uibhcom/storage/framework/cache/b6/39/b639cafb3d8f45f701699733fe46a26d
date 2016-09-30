@@ -1,4 +1,4 @@
-1475172173a:1:{s:26:"hero/bell-luxurylounge.htm";a:6:{s:8:"fileName";s:26:"hero/bell-luxurylounge.htm";s:7:"content";s:5203:"<div id="heroCarouselWrapper" class="slick-initialized slick-slider">
+1475248357a:1:{s:26:"hero/bell-luxurylounge.htm";a:6:{s:8:"fileName";s:26:"hero/bell-luxurylounge.htm";s:7:"content";s:5203:"<div id="heroCarouselWrapper" class="slick-initialized slick-slider">
         <div aria-live="polite" class="slick-list draggable" tabindex="0"><div class="slick-track" style="opacity: 1; width: 1125px;"><div class="hero slick-slide slick-active" style="background-position: center bottom; background-image: url(&quot;http://bellhelicopter.com/~/media/bell/images/heros-headers/home-carousel/vvip/vvip-1.ashx&quot;); width: 375px; position: relative; left: 0px; top: 0px; z-index: 900; opacity: 1;" data-slick-index="0" aria-hidden="false">
             <div class="heroCover" id="heroCover0"></div>
             <a class="ss-dropdown scroll-down" href="#homeMain" id="scrollDown0"></a>
